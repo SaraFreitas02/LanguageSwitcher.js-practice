@@ -12,7 +12,7 @@ This small web project was created for personal practice and experimentation wit
 **script.js:** The JavaScript file that handles the greeting message switching functionality.
 
 ## How to Use
-Open the index.html file in a web browser (or click [here](https://sarafreitas02.github.io/js-practice.languageSwitcher1/)).
+Open the index.html file in a web browser (or click [here]((https://sarafreitas02.github.io/LanguageSwitcher.js-practice/)).
 
 You'll find a default "Hello" greeting message and two buttons: "English" and "Portuguese."
 Click the "English" button to change the greeting to "Hello," or click the "Portuguese" button to switch it to "Olá."
