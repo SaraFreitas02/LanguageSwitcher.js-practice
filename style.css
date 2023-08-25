@@ -1,0 +1,23 @@
+button {
+    background-color: transparent;
+    border: solid 1px;
+    color: black;
+    border-radius: 20px;
+    margin: 10px;
+    width: 25%;
+}
+
+button:hover {
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
